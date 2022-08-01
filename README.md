@@ -1,5 +1,5 @@
 # QA_SimbirSoft_API
-Тестовое задаеие для SimbirSoft на позицию QA.
+Тестовое задание для SimbirSoft на позицию QA.
 
 Так как не работал с pytest, программа запускается командой "py main.py".
 
