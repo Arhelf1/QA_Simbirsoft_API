@@ -10,4 +10,4 @@ def test_api():
             'Новый документ.docx', 'Горы.jpg', 'Зима.jpg', 'Мишки.jpg', 'Море.jpg', 'Москва.jpg', 'Санкт-Петербург.jpg', 'Файл для копирования.docx', 'Хлебные крошки.mp4']
     l = []
     page = MainPage()
-    page.get_resourses(url, header, mass, lis=l)
+    page.get_resourses(url, header, mass, l)
